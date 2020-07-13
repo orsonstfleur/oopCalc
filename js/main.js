@@ -1,18 +1,12 @@
-let num = document.getElementById('initialNum')
+// let num = document.getElementByClassName('numbers')
+let num = document.querySelectorAll('#digit')
+let initialValue = document.querySelector('#display').value
 
-function calc(){
+function calculate(){
 
-  function minus( ){
+  num.addEventListener('click', () =>{
+    let  document.querySelector('#display').value =
+  })
 
-  }
-  function plus(){
 
-  }
-  function multiply(){
-
-  }
-  function divide(){
-
-  }
 }
-fdm consultant

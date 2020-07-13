@@ -1,3 +1,18 @@
 body{
   background-color: black;
+  background-image: url("../image/space.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#calc{
+  display: inline-block;
+  margin: 15% 0% 0% 40%;
+}
+#zero{
+  width: 3%;
+}
+#display{
+  background-color: white
+
 }
