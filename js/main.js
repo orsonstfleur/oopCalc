@@ -5,7 +5,7 @@ let initialValue = document.querySelector('#display').value
 function calculate(){
 
   num.addEventListener('click', () =>{
-    let  document.querySelector('#display').value =
+    let document.querySelector('#display').value = 
   })
 
 
